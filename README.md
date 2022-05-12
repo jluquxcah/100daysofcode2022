@@ -19,9 +19,9 @@ Algunos proyectos que he completado durante el desafío:
 
 Puedes seguir mi progreso a traves del desafío: 
 
-* [Diario](journal)
+* [Diario](https://github.com/jluquxcah/100daysofcode2022/tree/master/journal)
 * [Blog](#journal)
-* [Twitter](#journal)
+* [Twitter](https://twitter.com/GeekyWarez)
 * ...
 
 ## Recursos

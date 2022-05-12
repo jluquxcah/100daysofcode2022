@@ -14,13 +14,15 @@
 
 * [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp)
 * Progreso de hoy:
-  - [ ] Meta 1 Completada
-  - [ ] Meta 2 Completada
-  - [ ] Meta 3 Completada
+  - [X] Meta 1 Completada
+  - [X] Meta 2 Completada
+  - [X] Meta 3 Completada
 * Desafíos encontrados
   - Tiempo insuficiente.
   - Recopilación de información tardó más de lo esperado
+  - Iniciar mini curso de GitHub gratuito para la creacion del blog y el diario
+  - Iniciar mini curso de Markdown para formatear los textos del blog y el diario
 * Tareas para mañana
   - Completar día 2 del curso.
-  - Completar el diario y el blog del día 2.
+  - Iniciar las entradas del diario y el blog, con impresiones y reflexiones.
 ...

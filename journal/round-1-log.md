@@ -1,21 +1,21 @@
-# Round 1 Log
+# Registro Ronda 1
 
-**Start date**: XX/XX/XX
+**Fecha de Inicio**: 11/05/22
 
-**End date**: XX/XX/XX
+**Fecha de Termino**: 19/08/22 
 
-## Goals
+## Metas
 
-* Goal 1
-* Goal 2
-* Goal 3
+* Meta 1
+* Meta 2
+* Meta 3
 * ...
 
-## Day 1
+## Día 1
 
-* Project you are working on (including link)
-* Progress today
-* Challenges you faced
-* Tasks for tomorrow
+* Proyecto en el que estas trabajando (incluyendo enlace)
+* Progreso de hoy
+* Desafíos encontrados
+* Tareas para mañana
 
 ...

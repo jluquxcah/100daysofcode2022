@@ -14,9 +14,9 @@
 
 * [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp)
 * Progreso de hoy:
-  - Meta 1:
-  - Meta 2:
-  - Meta 3:
+  - [ ] Meta 1 Completada
+  - [ ] Meta 2 Completada
+  - [ ] Meta 3 Completada
 * Desafíos encontrados
   - Tiempo insuficiente.
   - Recopilación de información tardó más de lo esperado

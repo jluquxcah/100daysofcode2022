@@ -6,16 +6,21 @@
 
 ## Metas
 
-* Meta 1
-* Meta 2
-* Meta 3
-* ...
+* Meta 1: Organizar todo lo necesario para el desafio. Herramientas, libretas, enlaces.
+* Meta 2: Iniciar el diario y el blog, para el registro del desafio.
+* Meta 3: Completar el primer día del curso **100 Days Of Code - 2022 Web Development Bootcamp**
 
 ## Día 1
 
-* Proyecto en el que estas trabajando (incluyendo enlace)
-* Progreso de hoy
+* [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp)
+* Progreso de hoy:
+  - Meta 1:
+  - Meta 2:
+  - Meta 3:
 * Desafíos encontrados
+  - Tiempo insuficiente.
+  - Recopilación de información tardó más de lo esperado
 * Tareas para mañana
-
+  - Completar día 2 del curso.
+  - Completar el diario y el blog del día 2.
 ...

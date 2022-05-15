@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+11 de mayo de 2022. [Jose Luis Gonzalez M.]
 
 ## Reglas adicionales
 

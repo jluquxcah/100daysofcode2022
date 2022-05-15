@@ -4,7 +4,7 @@
 
 ## Reglas
 
-* Escribir un mínimo de código, una hora al día, durante los proximos 10 días.
+* [Reglas](reglas.md)
 
 ## Proyectos
 

@@ -4,7 +4,7 @@
 
 ## Reglas
 
-* Escribir un mínimo de código, una hora al día, durante los proximos 10 días.
+* [Reglas](reglas.md)
 
 ## Proyectos
 
@@ -19,9 +19,9 @@ Algunos proyectos que he completado durante el desafío:
 
 Puedes seguir mi progreso a traves del desafío: 
 
-* [Diario](https://github.com/jluquxcah/100daysofcode2022/tree/master/journal)
-* [Blog](https://jluquxcah.github.io/100daysofcode-blog/)
-* [Twitter](https://twitter.com/GeekyWarez)
+* <a href="https://github.com/jluquxcah/100daysofcode2022/tree/master/journal/diario.md" target="_blank">Diario</a>
+* <a href="https://jluquxcah.github.io/100daysofcode-blog/" target="_blank">Blog</a>
+* <a href="https://twitter.com/GeekyWarez" target="_blank">Twitter</a>
 * ...
 
 ## Recursos
